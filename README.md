@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adisinghstudent
-- 👀 I’m interested in space
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me 
+- 👋 hi, i’m adi
+-  i’m interested in space
+-  i’m currently learning everything
+-  i’m looking to collaborate on github
+-  reach me on linkedin on instagram!
 
 <!---
 adisinghstudent/adisinghstudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
