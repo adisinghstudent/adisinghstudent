@@ -1,7 +1,6 @@
-- 👋 hi, i’m adi
--  i’m interested in space
--  i’m currently learning everything
--  i’m looking to collaborate on github
+- 👋 heyy, i’m adi
+-  i’m interested in coding
+-  i’m currently learning javascipt and python for the better
 -  reach me on linkedin or instagram!
 
 <!---
