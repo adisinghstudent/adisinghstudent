@@ -1,4 +1,5 @@
-[![]()](https://adibuilds.vercel.app)<!-- If you want the template for my gif, email me! -->
+### Hi 👋 i'm Adi !
+[![](https://media.giphy.com/media/26BRKEDGBicmow252/giphy.gif)](https://adibuilds.vercel.app)
 
 ### Languages
 
