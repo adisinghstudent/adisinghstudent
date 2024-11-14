@@ -1,28 +1,48 @@
-### Hi 👋 i'm Adi !
-[![](https://media.giphy.com/media/26BRKEDGBicmow252/giphy.gif)](https://adibuilds.vercel.app)
+# Hey there! 👋 I'm Adi Singh
 
-### Languages
+**🚀 Full-Stack Developer | ENTJ**  
+**🔬 Engineering Student | Innovator**  
+**💼 AllTech Enthusiast | Aspiring Founder**  
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+---
 
-### Technologies
+### 🚀 About Me
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+I'm Adi Singh, a passionate full-stack developer blending tech, finance, and innovative problem-solving. With a love for robotics, AI, and the startup world, I’m constantly experimenting with new ideas and building solutions that push the limits. From data-driven projects in finance to hands-on robotics with Arduino, I'm all about creating impactful tech.
 
-### Full Stack Projects
+- **Currently working on:** A social media app and a few ambitious AI-powered ideas 🚀
+- **Favorite tools:** React, Python, TypeScript, Firebase, and Arduino.
+- **Hobbies:** Running, scuba diving, and the occasional cozy movie night 🎥  
+- **Professional Goal:** Build something game-changing in FinTech and cybernetics while wearing a suit, ideally!
+
+---
+
+### 🛠️ Projects I’m Proud Of
+
+- **LlamaChat:** A cross-platform messaging app developed during the Buildspace incubator in San Francisco. Integrated Ollama Llama 3.1 for AI responses and Firebase for real-time functionality. 📲
+- **SnapClass:** A full-stack education platform utilizing TypeScript and React for the frontend, with Python and Yolov8 on the backend.
+- **Algorithmic Trading Tools:** Developed multiple indicators, replicated S&P 500 index weights, and implemented strategies using APIs from IEX Exchange and Nasdaq.
+---
+
+### 📚 Learning & Experimenting
+
+I'm always diving into new tech and methodologies, especially in:
+- **Control Theory & Automation:** Currently balancing school with side projects in this area.
+- **Financial Technologies:** Blending code with finance to leverage data and analytics for smarter investments.
+- **Network Programming & Security:** Focused on fundamentals and practical applications in real-world scenarios.
+
+---
+
+### 🌍 Where You Can Find Me
+
+- [LinkedIn](https://www.linkedin.com/in/adisinghwork/) - Let's connect!
+- [Portofolio](https://adisingh.vercel.app) - Sharing insights, and myself.
+- [Instagram](https://www.instagram.com/adisinghbuilds/) - Documenting projects, study sessions, and life as a tech student in Norway.
 
 
+### 👀 Currently Seeking
 
-### Cybersecurity Projects
+Opportunities to collaborate in **FinTech** or **robotics**—especially in **startups** and **high-impact** projects. Whether it's a hackathon or a full-blown project, I'm in if it’s cutting-edge.
 
+---
 
