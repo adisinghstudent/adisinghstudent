@@ -1,19 +1,19 @@
 # Hey there! 👋 I'm Adi Singh
 
-**🚀 Full-Stack Developer | ENTJ**  
-**🔬 Engineering Student | Innovator**  
+**🚀 ML Engineer | ENTJ**  
+**🔬 Robotics Student | Innovator**  
 **💼 AllTech Enthusiast | Aspiring Founder**  
 
 ---
 
 ### 🚀 About Me
 
-I'm Adi Singh, a passionate full-stack developer blending tech, finance, and innovative problem-solving. With a love for robotics, AI, and the startup world, I’m constantly experimenting with new ideas and building solutions that push the limits. From data-driven projects in finance to hands-on robotics with Arduino, I'm all about creating impactful tech.
+I'm Adi Singh, a passionate ML developer blending tech, finance, and innovative problem-solving. With a love for robotics, AI, and the startup world, I’m constantly experimenting with new ideas and building solutions that push the limits. From data-driven projects in finance to hands-on robotics with Arduino, I'm all about creating impactful tech.
 
 - **Currently working on:** A social media app and a few ambitious AI-powered ideas 🚀
 - **Favorite tools:** React, Python, TypeScript, Firebase, and Arduino.
 - **Hobbies:** Running, scuba diving, and the occasional cozy movie night 🎥  
-- **Professional Goal:** Build something game-changing in FinTech and cybernetics while wearing a suit, ideally!
+- **Professional Goal:** Build something game-changing in ML and Robotics while wearing a suit, ideally!
 
 ---
 
@@ -36,8 +36,8 @@ I'm always diving into new tech and methodologies, especially in:
 ### 🌍 Where You Can Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/adisinghwork/) - Let's connect!
-- [Portofolio](https://adisingh.vercel.app) - Sharing insights, and myself.
-- [Instagram](https://www.instagram.com/adisinghbuilds/) - Documenting projects, study sessions, and life as a tech student in Norway.
+- [Portofolio](https://adisingh.com) - Sharing insights, and myself.
+- [Instagram](https://www.instagram.com/teamadi/) - Documenting projects, study sessions, and life as a tech student in Norway.
 
 
 ### 👀 Currently Seeking
