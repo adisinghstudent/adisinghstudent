@@ -37,7 +37,6 @@ I'm always diving into new tech and methodologies, especially in:
 
 - [LinkedIn](https://www.linkedin.com/in/adisinghwork/) - Let's connect!
 - [Portofolio](https://adisingh.com) - Sharing insights, and myself.
-- [Instagram](https://www.instagram.com/teamadi/) - Documenting projects, study sessions, and life as a tech student in Norway.
 
 
 ### 👀 Currently Seeking
