@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-I'm Adi Singh, a passionate ML developer blending tech, finance, and innovative problem-solving. With a love for robotics, AI, and the startup world, I’m constantly experimenting with new ideas and building solutions that push the limits. From data-driven projects in finance to hands-on robotics with Arduino, I'm all about creating impactful tech.
+I'm Adi Singh, a passionate ML developer blending tech, finance, and innovative problem-solving. With a love for robotics, AI, and the startup world, I’m constantly experimenting with new ideas and building solutions that push the limits. From data-driven projects in finance to hands-on robotics, I'm all about creating impactful tech.
 
-- **Currently working on:** A social media app and a few ambitious AI-powered ideas 🚀
+- **Currently working on:** HPC Research, Muzero from scratch and a few ambitious AI-powered ideas 🚀
 - **Favorite tools:** React, Python, TypeScript, Firebase, and Arduino.
 - **Hobbies:** Running, scuba diving, and the occasional cozy movie night 🎥  
 - **Professional Goal:** Build something game-changing in ML and Robotics while wearing a suit, ideally!
@@ -27,7 +27,7 @@ I'm Adi Singh, a passionate ML developer blending tech, finance, and innovative 
 ### 📚 Learning & Experimenting
 
 I'm always diving into new tech and methodologies, especially in:
-- **Control Theory & Automation:** Currently balancing school with side projects in this area.
+- **Control Theory & Robotics:** Currently balancing school with side projects in this area
 - **Financial Technologies:** Blending code with finance to leverage data and analytics for smarter investments.
 - **Network Programming & Security:** Focused on fundamentals and practical applications in real-world scenarios.
 
