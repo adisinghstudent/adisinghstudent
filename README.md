@@ -1,47 +1,55 @@
-# Hey there! 👋 I'm Adi Singh
+# 🌍 Hey there, I’m Adi Singh  
 
-**🚀 ML Engineer | ENTJ**  
-**🔬 Robotics Student | Innovator**  
-**💼 AllTech Enthusiast | Aspiring Founder**  
+**🪐 Forward Deployed Engineer | ⚙️ Prev. Founder @ Dereference | 🎓 UC Berkeley & NTNU**
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
+I’m Adi Singh — a **software engineer and founder** who builds and ships products fast.  
+I’ve built full-stack apps, dev tools, and automation systems powered by the latest in **AI and infrastructure**.  
 
-I'm Adi Singh, a passionate ML developer blending tech, finance, and innovative problem-solving. With a love for robotics, AI, and the startup world, I’m constantly experimenting with new ideas and building solutions that push the limits. From data-driven projects in finance to hands-on robotics, I'm all about creating impactful tech.
-
-- **Currently working on:** HPC Research, Muzero from scratch and a few ambitious AI-powered ideas 🚀
-- **Favorite tools:** React, Python, TypeScript, Firebase, and Arduino.
-- **Hobbies:** Running, scuba diving, and the occasional cozy movie night 🎥  
-- **Professional Goal:** Build something game-changing in ML and Robotics while wearing a suit, ideally!
+Previously, I founded **Dereference**, a multiprocessing IDE written in **Rust**, backed by **Entrepreneur First**, **Anthropic for Startups**, and **Google Cloud**.  
+Now, I focus on **building, testing, and deploying the newest AI systems** — from local inference stacks to real-time LLM applications.
 
 ---
 
-### 🛠️ Projects I’m Proud Of
-
-- **LlamaChat:** A cross-platform messaging app developed during the Buildspace incubator in San Francisco. Integrated Ollama Llama 3.1 for AI responses and Firebase for real-time functionality. 📲
-- **SnapClass:** A full-stack education platform utilizing TypeScript and React for the frontend, with Python and Yolov8 on the backend.
-- **Algorithmic Trading Tools:** Developed multiple indicators, replicated S&P 500 index weights, and implemented strategies using APIs from IEX Exchange and Nasdaq.
----
-
-### 📚 Learning & Experimenting
-
-I'm always diving into new tech and methodologies, especially in:
-- **Control Theory & Robotics:** Currently balancing school with side projects in this area
-- **Financial Technologies:** Blending code with finance to leverage data and analytics for smarter investments.
-- **Network Programming & Security:** Focused on fundamentals and practical applications in real-world scenarios.
+### ⚙️ What I Work On  
+- 🧩 **Apps & Tools:** AI-powered developer tools, interactive UIs, and automation backends.  
+- 💻 **Tech Stack:** Rust, TypeScript, Python, React, FastAPI, Docker.  
+- 🤖 **AI Systems:** Prompt engineering, retrieval, context persistence, and multi-agent execution.  
+- 🔬 **Testing Frontier Tech:** OpenAI, Anthropic, Mistral, Qwen, and Cerebras — always pushing limits.  
 
 ---
 
-### 🌍 Where You Can Find Me
+### 🛠 Projects I’m Proud Of  
+- ⚙️ **Dereference IDE** — multiprocessing Rust IDE for LLMs with parallel agent execution and persistent context.  
+  > 2,000+ users · 300k visits in 24 hours · backed by Anthropic & EF  
 
-- [LinkedIn](https://www.linkedin.com/in/adisinghwork/) - Let's connect!
-- [Portofolio](https://adisingh.com) - Sharing insights, and myself.
-
-
-### 👀 Currently Seeking
-
-Opportunities to collaborate in **FinTech** or **robotics**—especially in **startups** and **high-impact** projects. Whether it's a hackathon or a full-blown project, I'm in if it’s cutting-edge.
+- 💬 **LlamaChat** — AI messaging app built at Buildspace SF; **500+ users in first week**.  
+- 🧠 **MuZero & AlphaZero Agents** — implemented self-learning RL agents to prove deep technical range.  
+- 🧬 **MIT Biogen Lab** — ML research improving hydrocephalus treatment efficiency **by 300%**.  
+- 🌌 **Compute Research (NTNU HPC-Lab)** — optimized distributed matrix ops on Norway’s IDUN supercluster.  
 
 ---
 
+### 🏆 Recognition  
+- 🥉 **3rd – OpenAI Hackathon ’25**  
+- 🥇 **1st – Jane Street Estimathon ’24**  
+- 🥈 **2nd – Start Code Intl. ’24**  
+- 🧠 **Meta Hackathon Finalist ’25**  
+- 🌐 **15K+ audience ML creator**, 16+ hackathons across Google, Meta, OpenAI  
+
+---
+
+### 🎓 Education  
+- 🦅 **UC Berkeley** — Math & Computer Science  
+- 🇳🇴 **NTNU** — Robotics & Cybernetics  
+
+---
+
+### 🌐 Connect  
+🌎 [Website](https://adisingh.com) | 💼 [LinkedIn](https://linkedin.com/in/adisinghwork) | 💻 [GitHub](https://github.com/adisinghstudent)
+
+---
+
+> *“Engineering is capitalism’s purest form, tools building tools for compounding output.”*
