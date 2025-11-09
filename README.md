@@ -23,7 +23,7 @@ Now, I focus on **building, testing, and deploying the newest AI systems** — f
 
 ### 🛠 Projects I’m Proud Of  
 - ⚙️ **Dereference IDE** — multiprocessing Rust IDE for LLMs with parallel agent execution and persistent context.  
-  > 2,000+ users · 300k visits in 24 hours · backed by Anthropic & EF  
+  > 2,000+ users · 300k visits in 24 hours · backed by Anthropic for startups and Google for startups & EF  
 
 - 💬 **LlamaChat** — AI messaging app built at Buildspace SF; **500+ users in first week**.  
 - 🧠 **MuZero & AlphaZero Agents** — implemented self-learning RL agents to prove deep technical range.  
