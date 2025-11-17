@@ -1,40 +1,18 @@
-# 🌍 Hey there, I’m Adi Singh  
+# Hey, I’m Adi Singh
 
-**🪐 Forward Deployed Engineer | ⚙️ Prev. Founder @ Dereference | 🎓 UC Berkeley & NTNU**
+Forward Deployed Engineer and ex-founder of **Dereference**, studying **Math & CS at UC Berkeley** and **Robotics & Cybernetics at NTNU**. I build and ship AI systems fast: full-stack apps, devtools, automation, and infrastructure.
 
+I founded **Dereference**, a multiprocessing Rust IDE backed by **Entrepreneur First**, **Anthropic for Startups**, and **Google Cloud**. I work across local inference stacks and real-time LLM systems.
 
-### 🚀 About Me  
-I’m Adi Singh — a **software engineer and founder** who builds and ships products fast.  
-I’ve built full-stack apps, dev tools, and automation systems powered by the latest in **AI and infrastructure**.  
+**Projects:**  
+Dereference IDE (2,000+ users, 300k visits in 24h), LlamaChat (500 users first week), MuZero/AlphaZero RL agents, MIT Biogen ML research improving hydrocephalus treatment efficiency by 300%, NTNU HPC distributed compute work.
 
-Previously, I founded **Dereference**, a multiprocessing IDE written in **Rust**, backed by **Entrepreneur First**, **Anthropic for Startups**, and **Google Cloud**.  
-Now, I focus on **building, testing, and deploying the newest AI systems** — from local inference stacks to real-time LLM applications.
+**Recognitions:**  
+3rd OpenAI Hackathon ’25, 1st Jane Street Estimathon ’24, 2nd Start Code Intl. ’24, Meta Hackathon Finalist ’25, ML creator with 15k audience across 16 major hackathons.
 
-### 🛠 Projects I’m Proud Of  
-- ⚙️ **Dereference IDE** — multiprocessing Rust IDE for LLMs with parallel agent execution and persistent context.  
-  > 2,000+ users · 300k visits in 24 hours · backed by Anthropic for startups and Google for startups & EF  
+**Links:**  
+Website: **https://adisingh.com**  
+LinkedIn: **https://linkedin.com/in/adisinghwork**  
+GitHub: **https://github.com/adisinghstudent**
 
-- 💬 **LlamaChat** — AI messaging app built at Buildspace SF; **500+ users in first week**.  
-- 🧠 **MuZero & AlphaZero Agents** — implemented self-learning RL agents to prove deep technical range.  
-- 🧬 **MIT Biogen Lab** — ML research improving hydrocephalus treatment efficiency **by 300%**.  
-- 🌌 **Compute Research (NTNU HPC-Lab)** — optimized distributed matrix ops on Norway’s IDUN supercluster.  
-
-### 🏆 Recognition  
-- 🥉 **3rd – OpenAI Hackathon ’25**  
-- 🥇 **1st – Jane Street Estimathon ’24**  
-- 🥈 **2nd – Start Code Intl. ’24**  
-- 🧠 **Meta Hackathon Finalist ’25**  
-- 🌐 **15K+ audience ML creator**, 16+ hackathons across Google, Meta, OpenAI  
-
-### 🎓 Education  
-- 🦅 **UC Berkeley** — Math & Computer Science  
-- 🇳🇴 **NTNU** — Robotics & Cybernetics  
-
----
-
-### 🌐 Connect  
-🌎 [Website](https://adisingh.com) | 💼 [LinkedIn](https://linkedin.com/in/adisinghwork) | 💻 [GitHub](https://github.com/adisinghstudent)
-
----
-
-> *“Engineering is capitalism’s purest form, tools building tools for compounding output.”*
+"Engineering is capitalism’s purest form — tools building tools for compounding output."
