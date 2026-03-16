@@ -12,7 +12,7 @@ Dereference IDE (2,000+ users, 300k visits in 24h), LlamaChat (500 users first w
 
 **Links:**  
 Website: **https://adisingh.com**  
-LinkedIn: **https://linkedin.com/in/adisinghwork**  
+LinkedIn: **https://linkedin.com/in/adisinghlinkedin**  
 GitHub: **https://github.com/adisinghstudent**
 
 "Engineering is capitalism’s purest form — tools building tools for compounding output."
